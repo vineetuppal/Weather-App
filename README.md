@@ -4,6 +4,12 @@ A dynamic and user-friendly weather application that provides real-time weather 
 
 ---
 
+## Live Demo
+
+Check out the live demo of the Weather App here: [Weather App Live Demo](https://weather-app-vineet.netlify.app/)
+
+---
+
 ## Features ✨
 
 - **Your Weather**: Get real-time weather updates based on your current location using geolocation.
